@@ -1,0 +1,11 @@
+﻿  glad.c
+  main-sample (2).cpp
+c:\users\ericc\downloads\main-sample (2).cpp(78): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ericc\downloads\main-sample (2).cpp(231): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ericc\downloads\main-sample (2).cpp(232): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ericc\downloads\main-sample (2).cpp(233): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ericc\downloads\main-sample (2).cpp(323): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\ericc\downloads\main-sample (2).cpp(323): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ericc\downloads\main-sample (2).cpp(333): warning C4552: '-': result of expression not used
+c:\users\ericc\downloads\main-sample (2).cpp(385): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  CSCI168_HW3.vcxproj -> C:\Users\ericc\OneDrive\Documents\CS\Graphics Homework\CSCI168_HW3\Debug\CSCI168_HW3.exe

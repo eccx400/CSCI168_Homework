@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/tests/CMakeFiles/generate.stamp is up-to-date.
+  title.c
+C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\tests\title.c : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  glad.c
+  Generating Code...
+  title.vcxproj -> C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\tests\Debug\title.exe

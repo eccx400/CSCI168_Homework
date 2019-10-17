@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\ericc\OneDrive\Documents\CS\Graphics Homework\CSCI166 HW_1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3324483661.index
+2695253538.index
+4206550811.index
+353514119.index
+4203655786.index
+2270537222.index

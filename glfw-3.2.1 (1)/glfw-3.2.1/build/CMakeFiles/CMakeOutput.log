@@ -1,0 +1,164 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/12/2018 12:05:26 PM.
+Project "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\3.13.0-rc1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\3.13.0-rc1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\3.13.0-rc1\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.83
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/3.13.0-rc1/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_ea91d.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/12/2018 12:05:30 PM.
+Project "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_ea91d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_ea91d.dir\Debug\".
+  Creating directory "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_ea91d.dir\Debug\cmTC_ea91d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_ea91d.dir\Debug\cmTC_ea91d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ea91d.dir\Debug\\" /Fd"cmTC_ea91d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ea91d.dir\Debug\\" /Fd"cmTC_ea91d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_ea91d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_ea91d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_ea91d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_ea91d.dir\Debug\testCCompiler.obj
+  cmTC_ea91d.vcxproj -> C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_ea91d.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_ea91d.dir\Debug\cmTC_ea91d.tlog\unsuccessfulbuild".
+  Touching "cmTC_ea91d.dir\Debug\cmTC_ea91d.tlog\cmTC_ea91d.lastbuildstate".
+Done Building Project "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_ea91d.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.69
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_3f1b3.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/12/2018 12:05:32 PM.
+Project "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_3f1b3.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_3f1b3.dir\Debug\".
+  Creating directory "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_3f1b3.dir\Debug\cmTC_3f1b3.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_3f1b3.dir\Debug\cmTC_3f1b3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3f1b3.dir\Debug\\" /Fd"cmTC_3f1b3.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3f1b3.dir\Debug\\" /Fd"cmTC_3f1b3.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_3f1b3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_3f1b3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_3f1b3.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_3f1b3.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_3f1b3.vcxproj -> C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_3f1b3.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_3f1b3.dir\Debug\cmTC_3f1b3.tlog\unsuccessfulbuild".
+  Touching "cmTC_3f1b3.dir\Debug\cmTC_3f1b3.tlog\cmTC_3f1b3.lastbuildstate".
+Done Building Project "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_3f1b3.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.15
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f71b2.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.8.169+g1ccb72aefa for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 10/12/2018 12:05:33 PM.
+Project "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_f71b2.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f71b2.dir\Debug\".
+  Creating directory "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_f71b2.dir\Debug\cmTC_f71b2.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f71b2.dir\Debug\cmTC_f71b2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f71b2.dir\Debug\\" /Fd"cmTC_f71b2.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\feature_tests.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26730 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f71b2.dir\Debug\\" /Fd"cmTC_f71b2.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\feature_tests.c"
+  feature_tests.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_f71b2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_f71b2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ericc/Downloads/glfw-3.2.1 (1)/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_f71b2.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_f71b2.dir\Debug\feature_tests.obj
+  cmTC_f71b2.vcxproj -> C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_f71b2.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_f71b2.dir\Debug\cmTC_f71b2.tlog\unsuccessfulbuild".
+  Touching "cmTC_f71b2.dir\Debug\cmTC_f71b2.tlog\cmTC_f71b2.lastbuildstate".
+Done Building Project "C:\Users\ericc\Downloads\glfw-3.2.1 (1)\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_f71b2.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.01
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
